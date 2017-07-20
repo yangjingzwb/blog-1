@@ -1,4 +1,4 @@
-# 林鑫个人博客 #
+# 杨静的博客 #
 用于总结自己平时工作和学习中的经验。[线上地址](https://lin-xin.github.io/)
 
 订阅请 watch， 收藏点赞请 star， fork 好像没必要， 打赏请[微信扫码](http://www.gdfengshuo.com/blog/static/weixin.jpg)
